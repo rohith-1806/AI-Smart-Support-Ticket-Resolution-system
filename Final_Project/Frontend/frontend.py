@@ -91,7 +91,7 @@ def frontend_ui():
                     recommendations = rec_response.json().get("recommendations", [])
 
                     st.divider()
-                    st.markdown("**📚 Recommendations:**")
+                    st.markdown("**These are the solutions related to your issue:**")
 
                     if recommendations:
                         for idx, rec in enumerate(recommendations, 1):
