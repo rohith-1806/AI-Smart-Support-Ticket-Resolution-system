@@ -39,3 +39,7 @@ streamlit run app.py
 - `Backend/`: FastAPI application and AI logic.
 - `Frontend/`: Streamlit user interface.
 - `knowledge_base.csv`: Database of support articles.
+
+- ## To access project directly check the link below
+
+- - **Deployed by Streamlit**: http://localhost:8501](https://ai-smart-support-ticket-resolution-system.streamlit.app/
