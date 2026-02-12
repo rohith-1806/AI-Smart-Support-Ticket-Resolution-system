@@ -44,4 +44,4 @@ streamlit run app.py
 
 - - **Deployed by Streamlit**: http://localhost:8501](https://ai-smart-support-ticket-resolution-system.streamlit.app/
  
-  **Author**: Perumalla Rohith.
+  <strong>**Author**: Perumalla Rohith </strong>
