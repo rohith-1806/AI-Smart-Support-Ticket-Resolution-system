@@ -42,6 +42,6 @@ streamlit run app.py
 
 - ## To access project directly check the link below
 
-- - **Deployed by Streamlit**: http://localhost:8501](https://ai-smart-support-ticket-resolution-system.streamlit.app/
+- - **Deployed by Streamlit**: [http://localhost:8501](https://ai-smart-support-ticket-resolution-system.streamlit.app/](https://ai-smart-support-ticket-resolution-system.streamlit.app/)
  
   <strong>**Author**: Perumalla Rohith</strong>
